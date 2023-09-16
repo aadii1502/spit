@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient_color
+{
+  --tw-bg-opacity: 1;
+    background-color: rgb(26 35 46/var(--tw-bg-opacity));
+}
+
+
